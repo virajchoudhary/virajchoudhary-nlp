@@ -11,7 +11,7 @@ I originally built this toolkit to support my coursework, but I may extend it fo
 
 More functions and modules will be added.
 
-## Installation & Quick Start
+## Installation
 
 1.  **Install the package from PyPI:**
     ```bash
