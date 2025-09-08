@@ -21,16 +21,16 @@ More functions and modules will be added.
 2.  **Import and use the features in your Python code:**
     ```python
     from virajchoudhary_nlp import preprocessing as pp
-    from virajchoudhary_nlp import features
 
-    # Clean some text
     raw_text = "This is a 123 test sentence for my NLP toolkit!"
-    cleaned_text = pp.clean_text(raw_text) # (Assuming your function is named clean_text)
-    print(f"Cleaned Text: {cleaned_text}")
 
-    # Use another feature
-    word_count = features.count_words(cleaned_text) # (Assuming your function is named count_words)
-    print(f"Word Count: {word_count}")
+    # lowercase
+    lower_text = pp.to_lowercase(raw_text)
+    print(f"Lowercase Text: {lower_text}")
+
+    # Tokenize
+    tokens = pp.tokenize_words(lower_text) # Use the correct function name and the 'lower_text' variable
+    print(f"Tokens: {tokens}")
     ```
 
 ---
