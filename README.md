@@ -29,7 +29,7 @@ More functions and modules will be added.
     print(f"Lowercase Text: {lower_text}")
 
     # Tokenize
-    tokens = pp.tokenize_words(lower_text) # Use the correct function name and the 'lower_text' variable
+    tokens = pp.tokenize_words(lower_text)
     print(f"Tokens: {tokens}")
     ```
 
