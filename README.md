@@ -1,5 +1,3 @@
-Viraj Choudhary's NLP Toolkit
-
 Personal Python package developed for my university Natural Language Processing lab assignments.
 It includes simple, reusable functions for:
 
