@@ -11,12 +11,12 @@ More functions and modules will be added.
 
 ## Installation
 
-1.  **Install the package from PyPI:**
+1.  **Install the package:**
     ```bash
     pip install virajchoudhary-nlp
     ```
 
-2.  **Import and use the features in your Python code:**
+2.  **Import and use the functions in your code:**
     ```python
     from virajchoudhary_nlp import preprocessing as pp
 
