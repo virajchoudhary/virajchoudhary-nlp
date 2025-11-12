@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="virajchoudhary-nlp",
-    version="0.0.2",
+    version="0.0.3",
     author="Viraj Choudhary",
     author_email="virajc188@gmail.com",
     description="A personal toolkit for NLP lab coursework.",
